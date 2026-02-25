@@ -1,1 +1,1 @@
-this is normal file changes in git rep work sectors.
+this is normal file changes in git reposatory work sectors.
