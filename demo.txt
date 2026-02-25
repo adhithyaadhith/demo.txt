@@ -1,1 +1,2 @@
-this is normal file changes in git reposatory work sectors.
+To reinitiate the demo.txt file reposatory in git reposatory
+ 
