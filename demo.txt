@@ -1,2 +1,1 @@
-To reinitiate the demo.txt file reposatory in git reposatory
- 
+To reinitiate the demo.txt file reposatory in git reposatory.
